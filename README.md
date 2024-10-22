@@ -1,0 +1,13 @@
+- Registro Galeria
+    - nombre galeria
+    - ruc
+    - razon social
+    - direccion
+    - distrito
+    - administrador
+    - dni
+    - foto
+    - celular
+    - email
+    - fecha registro
+    
